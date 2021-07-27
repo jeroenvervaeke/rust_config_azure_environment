@@ -1,5 +1,5 @@
 [package]
-name = "rust_config_azure_environment"
+name = "config_azure_environment"
 version = "0.1.0"
 authors = ["Jeroen Vervaeke <jeroenvervaeke@users.noreply.github.com>"]
 edition = "2018"
